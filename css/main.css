@@ -2305,12 +2305,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .banner-area {
     background: url(../img/header-bg.jpg);
     background-position: 50% 90% 50% 50%;
   }
-}
+} */
 
 .banner-content {
   margin-top: 0%;
