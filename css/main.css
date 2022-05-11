@@ -2539,7 +2539,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .footer-area {
   color: #fff;
   padding-top: 220px;
-  background: url(../img/CoffeeBeans.jpg) center;
+  background: url(../img/coffee\ bean\ cup.jpg) center;
   background-size: cover;
 }
 
@@ -2567,7 +2567,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-social i {
-  color: #cccccc;
+  color: #000;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -2576,7 +2576,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 991.98px) {
   .footer-social {
-    text-align: left;
+    text-align: center;
   }
 }
 
@@ -2598,7 +2598,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .single-footer-widget .bb-btn {
   color: #b68834;
-  color: #fff;
+  /* color: #fff; */
   font-weight: 300;
   border-radius: 0;
   z-index: 9999;
@@ -2608,7 +2608,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .single-footer-widget .info {
   position: absolute;
   margin-top: 20%;
-  color: #fff;
+  /* color: #fff; */
   font-size: 12px;
 }
 

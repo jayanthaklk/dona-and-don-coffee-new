@@ -181,7 +181,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: #dbc1ac;
+    background: #b68834;
     transition-timing-function: ease-out;
     transform: scaleX(0);
     transform-origin: 0 50%;
@@ -204,7 +204,7 @@ body {
 
 /* ====footer===== */
 .fa-facebook {
-    text-align: center;
+    margin-left: 80px;
     font-size: 40px;
     color: #6e5845;
     text-indent: 20px;
@@ -219,7 +219,7 @@ body {
     text-indent: 20px;
 }
 
-.fa-whatsapp {
+.fa-whatsapp, .fa-twitter {
     text-align: center;
     font-size: 40px;
     color: #6e5845;
@@ -267,4 +267,7 @@ body {
 .price{
     color: #b68834;
     text-decoration:solid ;
+}
+.footer-p{
+    color: #000;
 }
