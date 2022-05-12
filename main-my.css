@@ -58,7 +58,12 @@ body {
         url(./images/coffee_3.jpg);  
 }
 .head-image-2{
-    background:url(./images/CoffeeBeans.jpg ) ;
+    background:url(img/) ;
+}
+.banner-page{
+    background:url(img/CoffeeBeans-w-175.jpg ) ;
+    height: 20vh;
+    width: 100%;
 }
 
 .banner {
