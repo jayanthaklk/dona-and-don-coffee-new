@@ -8,12 +8,16 @@ body {
     font-family: 'Open Sans', sans-serif;
     /* font-family: 'Comic Neue', cursive; */
 }
-.font-head{
+.font-head 
+{
     /* font-family: 'Marcellus SC', serif; */
 }
 
 /* .overflow-x: hidden; */
 /* ======Nav======== */
+.navbar-main-brand{
+   margin-left: 5%;
+}
 .nav-manu {
     padding: 25px;
 }
