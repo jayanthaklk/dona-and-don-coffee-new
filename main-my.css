@@ -280,3 +280,24 @@ body {
 .footer-p{
     color: #000;
 }
+
+/* to-top-btn */
+.myBtn {
+    display: none;
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color:#b68834;
+    color: white;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 2px;
+  }
+  
+  .myBtn:hover {
+    background-color: #555;
+  }
