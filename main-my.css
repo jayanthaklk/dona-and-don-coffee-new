@@ -35,7 +35,7 @@ body {
 }
 
 .manu-hover {
-    color: #634832;
+    color: #c59b62;
 }
 
 .bar1,
@@ -79,7 +79,7 @@ body {
     width: 60%;
 }
 .banertext-color {
-    color: #bea474;
+    color: #c59b62;
 }
 
 .heading {
@@ -109,7 +109,7 @@ body {
 /* end of header */
 /* ====About Us==== */
 #about {
-    background: #b68834;
+    background: #3a281c;
     margin: 30px;
     color: #dbc1ac;
 }
@@ -127,6 +127,9 @@ body {
     width: 150px;
     transition: all 2s ease;
     opacity: 0.9;
+}
+.abt-text{
+    color: #dbc1ac;
 }
 
 .img-1 {
@@ -166,10 +169,11 @@ body {
 }
 
 .btn {
-    color: #dbc1ac;
+    color: #fff;
     font-weight: bold;
     border: 2px solid #634832;
     font-size: 25px;
+    background-color:#c59b62 ;
 }
 
 .hvr-right {
@@ -190,7 +194,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: #b68834;
+    background: #c59b62;
     transition-timing-function: ease-out;
     transform: scaleX(0);
     transform-origin: 0 50%;
@@ -201,7 +205,7 @@ body {
 .hvr-right:hover,
 .hvr-right:focus,
 .hvr-right:active {
-    color: #000
+    color: #3a281c
 }
 
 .hvr-right:hover:before,
@@ -215,7 +219,7 @@ body {
 .fa-facebook {
     margin-left: 80px;
     font-size: 40px;
-    color: #6e5845;
+    color: #c59b62;
     text-indent: 20px;
 
 }
@@ -223,7 +227,7 @@ body {
 .fa-envelope {
     text-align: center;
     font-size: 40px;
-    color: #6e5845;
+    color: #c59b62;
     ;
     text-indent: 20px;
 }
@@ -231,12 +235,12 @@ body {
 .fa-whatsapp, .fa-twitter {
     text-align: center;
     font-size: 40px;
-    color: #6e5845;
+    color: #c59b62;
     text-indent: 20px;
 }
 
 .btn-callus {
-    background-color: #634832;
+    background-color: #c59b62;
     font-weight: 600;
     font-size: 20px;
     margin-left: 30%;
@@ -274,7 +278,7 @@ body {
      margin-top: 2%;
 }
 .price{
-    color: #b68834;
+    color: #c59b62;
     text-decoration:solid ;
 }
 .footer-p{
@@ -291,13 +295,17 @@ body {
     font-size: 18px;
     border: none;
     outline: none;
-    background-color:#b68834;
-    color: white;
+    background-color:#c59b62;
+    color: #fff;
     cursor: pointer;
     padding: 8px;
     border-radius: 2px;
   }
   
   .myBtn:hover {
-    background-color: #555;
+    background-color: #3a281c;
   }
+  .delicious-area{
+      background: url(img/menu-bg.jpg);
+  }
+ 
