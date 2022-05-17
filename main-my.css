@@ -8,6 +8,19 @@ body {
     font-family: 'Open Sans', sans-serif;
     /* font-family: 'Comic Neue', cursive; */
 }
+.welcome-font{
+    /* font-family:  'Lavishly Yours', cursive; */
+    font-family: 'Updock', cursive;
+    color: #c59b62;
+    font-size:4em;
+}
+.heading-discover{
+    font-family: 'Updock', cursive;
+    color: #c59b62;
+    font-size:4em;
+    margin-bottom: -30px;
+}
+
 .font-head 
 {
     /* font-family: 'Marcellus SC', serif; */
