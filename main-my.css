@@ -12,22 +12,22 @@ body {
     /* font-family:  'Lavishly Yours', cursive; */
     font-family: 'Updock', cursive;
     color: #c59b62;
-    font-size:4em;
+    font-size:3em;
 }
 .welcome-font-2{
     font-family: 'Updock', cursive;
     color: #c59b62;
-    font-size:3em;
+    font-size:2.5em;
 }
 .welcome-font-3{
     font-family: 'Updock', cursive;
     color: #c59b62;
-    font-size:1.5em;
+    font-size:2.5em;
 }
 .heading-discover{
     font-family: 'Updock', cursive;
     color: #c59b62;
-    font-size:4em;
+    font-size:3.2em;
     margin-bottom: -30px;
 }
 
