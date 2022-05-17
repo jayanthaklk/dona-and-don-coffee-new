@@ -2230,7 +2230,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-right: 60px;
   border-radius: 25px;
   border: none;
-  color: #c59b62;
+   color: #c59b62;
   display: inline-block;
   font-weight: 550;
    position: relative;
@@ -2241,6 +2241,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   cursor: pointer;
   text-transform: uppercase;
   position: relative;
+  
 }
 
 .primary-btn:focus {
@@ -2248,9 +2249,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .primary-btn span {
-  /* color: #fff; */
+  color: #fff;
   position: absolute;
-  top: 50%;
+  top: 30%;
   transform: translateY(-60%);
   right: 30px;
   -webkit-transition: all 0.3s ease 0s;
@@ -2264,21 +2265,21 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .primary-btn:hover span {
-  /* color: #fff; */
+  color: #fff;
   right: 20px;
 }
 
-/* .primary-btn.white {
+.primary-btn.white {
   border: 1px solid #fff;
   color: #fff;
-} */
+}
 
-/* .primary-btn.white span {
+.primary-btn.white span {
   color: #fff;
-} */
+}
 
 .primary-btn.white:hover {
-  /* background: #fff; */
+  background: #fff;
   color: #b68834;
 }
 
