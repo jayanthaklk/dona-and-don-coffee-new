@@ -14,6 +14,16 @@ body {
     color: #c59b62;
     font-size:4em;
 }
+.welcome-font-2{
+    font-family: 'Updock', cursive;
+    color: #c59b62;
+    font-size:3em;
+}
+.welcome-font-3{
+    font-family: 'Updock', cursive;
+    color: #c59b62;
+    font-size:1.5em;
+}
 .heading-discover{
     font-family: 'Updock', cursive;
     color: #c59b62;
